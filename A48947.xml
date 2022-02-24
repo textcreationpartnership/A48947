@@ -1,0 +1,1094 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ground-work, or foundation, laid (or so intended) for the framing of a new perfect language and an vniversal or commonwriting : and presented to the consideration of the learned / by a well-willer to learning.</title>
+            <author>Lodowyck, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48947</idno>
+            <idno type="STC">Wing L2816</idno>
+            <idno type="STC">ESTC R30504</idno>
+            <idno type="EEBO-CITATION">11342984</idno>
+            <idno type="OCLC">ocm 11342984</idno>
+            <idno type="VID">47520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ground-work, or foundation, laid (or so intended) for the framing of a new perfect language and an vniversal or commonwriting : and presented to the consideration of the learned / by a well-willer to learning.</title>
+                  <author>Lodowyck, Francis.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>MDCLII [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Lodowyck by Wing, DLC/MARC.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Language, Universal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47520:1"/>
+            <pb facs="tcp:47520:1" rendition="simple:additions"/>
+            <p>THE GROUND-WORK, OR <hi>FO<g ref="char:V">Ʋ</g>NDATION LAID,</hi> (or ſo intended) For the Framing of a New Perfect <hi>LANG<g ref="char:V">Ʋ</g>AGE:</hi> And an Vniverſall or <hi>COMMONWRITING.</hi>
+            </p>
+            <p>And preſented to the conſideration of the LEARNED,</p>
+            <p>
+               <hi>By a Well-willer to Learning.</hi>
+            </p>
+            <p>Printed, <hi>Anno MDCLII.</hi>
+            </p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:47520:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:47520:2"/>
+            <head>The Introduction.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He expreſſion of the minde or thoughts, is either by the Tongue or Pen moſt gene<g ref="char:EOLhyphen"/>rally performed, in both theſe, as at preſent uſed, I have obſerved theſe incon<g ref="char:EOLhyphen"/>veniencies.</p>
+            <p>1 Concerning language, which, for the common uſe it hath with rationall crea<g ref="char:EOLhyphen"/>tures, ſhould be in rules cer<g ref="char:EOLhyphen"/>tain and eaſie, the contrary of which I have obſerved in moſt Languages at preſent in uſe amongſt the Nations of theſe Weſtern parts of the World, and more eſpecially in thoſe called Learned Languages, which are, as it were, become common Languages, by reaſon of the knowledge and learning by them divulged; and which ſhould in all reaſon be the eaſieſt and certaineſt, both for the truer de<g ref="char:EOLhyphen"/>ſcription of things, and the eaſier attaining of the ſaid
+<pb n="2" facs="tcp:47520:3"/>Languages, which are but as the gates to Sciences, and therefore ſhould admit eaſie and quick entrance to the things themſelves, elſe it proveth a greater diſcourage<g ref="char:EOLhyphen"/>ment in Students, or at beſt, a loſſe of pretious time.</p>
+            <p>The difficulty appeareth in the multiplicity of forms of the variations of the <hi>Verb</hi> in its <hi>Moods, Tenſes, Perſons</hi> and <hi>Numbers:</hi> of the <hi>Noun</hi> in its <hi>Caſes,</hi> and of the <hi>Deri<g ref="char:EOLhyphen"/>vatives</hi> from the <hi>Radix,</hi> diſtinguiſhed by their <hi>Terminati<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>The uncertainty is manifeſted by thoſe many <hi>Anomalies</hi> which the Grammer mentioneth after its Rules, where having firſt taught Rules for ſpeech, proceedeth to the increaſing of them by the manifold <hi>Anomalies.</hi>
+            </p>
+            <p>The expreſſion by the Pen is either real repreſentations of things, or notionall, or accidentall.</p>
+            <p>
+               <hi>Reall,</hi> is when to expreſſe a man, we draw the picture of a man, &amp;c.</p>
+            <p>
+               <hi>Notionall</hi> or <hi>Relative,</hi> when we repreſent fierceneſſe by the figure of a Lion, Watchfulneſſe by a Dog, &amp;c.</p>
+            <p>
+               <hi>Accidentall,</hi> is by figures ſtated at pleaſure, to ſignifie ſuch things as the figures thereof have no relation thereto, and that is twofold: either literall, as when we repreſent the ſingle ſounds whereof words are compoſed by Cha<g ref="char:EOLhyphen"/>racters at pleaſure: Or ſecondly, when whole words, or rather things, their actions, qualities, with circumſtances are deſcribed, and not ſounds.</p>
+            <p>The former of theſe two is the moſt common in uſe, and of eaſieſt attaining, yet having its inconveniences, as wanting in extenſiveneſſe, being limited to the Languages, and joyntly travelling with them; ſo that what is written according to the ſound of any Language, is not underſtood
+<pb n="3" facs="tcp:47520:3"/>without the knowledge of the ſaid Language. But the latter hath this advantage, that what is written there<g ref="char:EOLhyphen"/>by, is underſtood by all alike; who notwithſtanding under<g ref="char:EOLhyphen"/>ſtand not one the others Language, the Characters intend<g ref="char:EOLhyphen"/>ing by a generall content, the repreſentations of things, and not of ſounds. Which we ſee plainly demonſtra<g ref="char:EOLhyphen"/>ted by the figures of Number in Arithmetick, as likewiſe in other common received Characters, as of Weights uſed by Phyſicians, &amp;c. The preference of this laſt is here likewiſe recommended, and the Ground-work of both this and a new Language here following laid down, or at leaſt ſo intended, all which is preſented to the conſiderati<g ref="char:EOLhyphen"/>on of the Learned.</p>
+            <p>If what is done prove only a motive to others of effect<g ref="char:EOLhyphen"/>ing the aime and deſigne of the Author, he hath his deſire, and remaineth their well-willers.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:47520:4"/>
+            <head>THE BEGINNING.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL words of ſpeech may be compriſed under three heads,</p>
+            <p>As words of
+<list>
+                  <item>
+                     <hi>Action,</hi>
+                  </item>
+                  <item>
+                     <hi>Quality,</hi>
+                  </item>
+                  <item>
+                     <hi>Help,</hi>
+                  </item>
+               </list> and theſe either
+<list>
+                  <item>
+                     <hi>Primitive,</hi>
+                  </item>
+                  <item>or <hi>Derivative.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By words of action, we mean ſuch as are diſtinguiſhed by the word <hi>[Verb,]</hi> or by circumlocution, <hi>words ſignifying with time,</hi> as the words <hi>to move, to live, to eat, to ſuffer.</hi> The denomination of words of action may ſeem ſomewhat un<g ref="char:EOLhyphen"/>proper, becauſe ſome words comming thereunder, have rather a paſſive ſignification, as to <hi>ſuffer, &amp;c.</hi> but we ſhall not herein be too nice, it bearing no great inconvenience to our intended purpoſe.</p>
+            <p>Bywords of quality, we intend ſuch as expreſs any circum<g ref="char:EOLhyphen"/>ſtance of a thing, or that which diſtinguiſheth one ſubſtance from another, as <hi>hot, cold, dry, ſharp.</hi>
+            </p>
+            <pb n="5" facs="tcp:47520:4"/>
+            <p>By words of help we intend ſuch as expreſſe time, place, perſon, &amp;c. as <hi>now, then. where, who, &amp;c.</hi>
+            </p>
+            <p>The primitive words are ſuch, as are of the firſt and ſimpleſt poſition, as <hi>love, long, when, &amp;c.</hi>
+            </p>
+            <p>Derivatives are thoſe as come from the ſaid Primitives, and that either by adding ſome common prepoſitions or terminations, or by conjunction of two or more radixes together.</p>
+            <div type="part">
+               <head>Concerning words of Action.</head>
+               <p>The Primitives of thoſe words we ſuppoſe to be ſuch as are indefinite neither to <hi>Verb</hi> or <hi>Noune,</hi> or ſomething that is neither <hi>Verb</hi> nor <hi>Noun,</hi> but that out of which both pro<g ref="char:EOLhyphen"/>ceed; for inſtance, the Latine Radix or primitive <hi>am,</hi> is indifferent to <hi>Verb</hi> or <hi>Noun,</hi> and is made either by the ad<g ref="char:EOLhyphen"/>ditions, as
+<table>
+                     <row>
+                        <cell>
+                           <hi>am-o</hi>
+                        </cell>
+                        <cell>
+                           <hi>am-as</hi>
+                        </cell>
+                        <cell>
+                           <hi>am-or</hi>
+                        </cell>
+                        <cell>
+                           <hi>am-icus, &amp;c.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Of the Primitives, for abbreviation, there might be a derivation ſuppoſed, as that of thoſe which in the main end agree, but differ in Quality, Proportion, &amp;c. that which ſeemeth in ſignification to be the ſimpleſt, to be placed as the Radix, and the reſt as derivatives.</p>
+               <p>
+                  <hi>For inſtance.</hi>
+               </p>
+               <p n="1">1 Thoſe which are in ſignification directly oppoſite, the worthier put for the Radix, as
+<list>
+                     <item>
+                        <hi>to Curſe,</hi>
+                     </item>
+                     <item>
+                        <hi>to Feed,</hi>
+                     </item>
+                     <item>
+                        <hi>to Live,</hi>
+                     </item>
+                     <item>
+                        <hi>to Bleſſe,</hi>
+                     </item>
+                     <item>
+                        <hi>to Faſt,</hi>
+                     </item>
+                     <item>
+                        <hi>to Die.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="2">
+                  <pb n="6" facs="tcp:47520:5"/>2 Thoſe which have a graduall difference, as
+<list>
+                     <item>
+                        <hi>to Go, Run, Trot, Amble:</hi>
+                     </item>
+                     <item>
+                        <hi>to Speak, Read, Preach, Call:</hi>
+                     </item>
+                     <item>
+                        <hi>to Smile, Laugh, &amp;c.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Unto theſe might be added a derivation in reſpect to theſe following conſignifications.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1 <hi>a cuſtome to act,</hi>
+                        </cell>
+                        <cell rows="6">as</cell>
+                        <cell>
+                           <hi>to be accuſtomed to ſwearing.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>2 <hi>a ſimilating of action</hi>
+                        </cell>
+                        <cell>
+                           <hi>to imitate crying or ſinging.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3 <hi>an inchoation,</hi>
+                        </cell>
+                        <cell>
+                           <hi>to begin to do a thing.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>4 <hi>an incoinatio<g ref="char:cmbAbbrStroke">̄</g> or deſire</hi>
+                        </cell>
+                        <cell>Eſurio Lat.</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>a diminution,</hi>
+                        </cell>
+                        <cell>
+                           <hi>to ſing low.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>6 <hi>a negation,</hi>
+                        </cell>
+                        <cell>
+                           <hi>not to ſing.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>More of like conſignifications might be added, of which theſe may ſerve as inſtances.</p>
+               <p>The <hi>Verb,</hi> the firſt derivation hath under it the diſtin<g ref="char:EOLhyphen"/>ction of <hi>Moode</hi> and <hi>Tenſe.</hi>
+               </p>
+               <p>
+                  <hi>Mood</hi> is the manner of expreſſion, which is either <hi>Indi<g ref="char:EOLhyphen"/>cative</hi> or <hi>Imparative,</hi> as for thoſe other <hi>Moods,</hi> namely, the <hi>Optative, Potentiall,</hi> and <hi>Subjunctive,</hi> they may be all ſup<g ref="char:EOLhyphen"/>plyed by the <hi>Indicative,</hi> with their ſignes added; as <hi>that, when.</hi>
+               </p>
+               <p>The <hi>Imperative</hi> Moode is diſcernable without variati<g ref="char:EOLhyphen"/>on, from the <hi>Indicative</hi> Mood thus.</p>
+               <p n="1">1 By a poſt-poſing of the perſonall auxiliary word, which in the <hi>Indicative</hi> ſhould be prepoſed; as</p>
+               <p>Imparative
+<list>
+                     <item>
+                        <hi>Go thou,</hi>
+                     </item>
+                     <item>
+                        <hi>Go we,</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Indicative
+<list>
+                     <item>
+                        <hi>Thou goeſt,</hi>
+                     </item>
+                     <item>
+                        <hi>We go.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="7" facs="tcp:47520:5"/>
+               <p n="2">2 By ſtanding without the perſonall word; as</p>
+               <p>
+                  <hi>Go to the doore.</hi>
+               </p>
+               <p>The <hi>Infinitive</hi> Mood may likewiſe be known by the ſigne [<hi>to</hi>] as <hi>teach him [to] read.</hi>
+               </p>
+               <p>The <hi>Tenſes</hi> are three, <hi>Paſt, Preſent, Future.</hi>
+               </p>
+               <p>The <hi>Preſent</hi> Tenſe being the firſt, will need no diſtin<g ref="char:EOLhyphen"/>ction in reſpect to the other Tenſes, namely, the <hi>Paſt,</hi> and the <hi>Future,</hi> which may have their diſtinctionall additi<g ref="char:EOLhyphen"/>ons.—</p>
+               <p>The <hi>Paſt</hi> Tenſe is commonly diſtinguiſhed in three parts;
+<list>
+                     <item>
+                        <hi>Preterit. imperfect,</hi>
+                     </item>
+                     <item>
+                        <hi>Perfect,</hi>
+                     </item>
+                     <item>
+                        <hi>Plus perfect.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>Imperfect</hi> and <hi>Perfect</hi> might without inconveni<g ref="char:EOLhyphen"/>ence be united in one, and ſo have one diſtinctionall ad<g ref="char:EOLhyphen"/>dition.—</p>
+               <p>The <hi>Plus perfect</hi> may remain diſtinguiſhed, yet as a ſub diſtinction unto the <hi>Perfect</hi> Tenſe.</p>
+               <p>Unto the <hi>Future</hi> might be added a ſub-diſtinction, and named the <hi>Conditionall Future;</hi> for inſtance,</p>
+               <p>
+                  <hi>If he had done that I ſhould have loved him.</hi>
+               </p>
+               <p>The diſtinction for Perſon and Number in the <hi>Verb</hi> is needleſſe, it being ſufficient when the ſame is performed in the <hi>Noun,</hi> for inſtance,
+<list>
+                     <item>
+                        <hi>I love,</hi>
+                     </item>
+                     <item>
+                        <hi>we love,</hi>
+                     </item>
+                     <item>
+                        <hi>ye love,</hi>
+                     </item>
+                     <item>
+                        <hi>they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ove.</hi>
+                     </item>
+                  </list>  What with more is needleſſe.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:47520:6"/>
+               <head>Of Nouns.</head>
+               <p>The <hi>Noune,</hi> the ſecond derivation, is either Common or Proper.</p>
+               <p>By Common, we underſtand thoſe Nouns which are not proper names of things, but common Derivatives from moſt <hi>Verbs,</hi> as <hi>Lover, Loved, Love, Lovelineſſe, &amp;c.</hi>
+               </p>
+               <p>By Proper names we underſtand thoſe names of ſub<g ref="char:EOLhyphen"/>ſtances, whether reall or fictitious, whereby they are di<g ref="char:EOLhyphen"/>ſtinguiſhed in their ſpecies or individuums, as
+<list>
+                     <item>
+                        <hi>Man, Horſe, Table, Houſe, &amp;c.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter, Thomas, Pretty, Palace, &amp;c.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The common <hi>Nouns</hi> I have diſtinguiſhed in nine diſtin<g ref="char:EOLhyphen"/>ctions, as follow.</p>
+               <list>
+                  <head>1 The action deno<g ref="char:EOLhyphen"/>minated.</head>
+                  <item>
+                     <hi>Amor</hi>
+                  </item>
+                  <item>
+                     <hi>Lectio</hi>
+                  </item>
+                  <item>
+                     <hi>Viſio</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>2 That acteth.</head>
+                  <item>
+                     <hi>Amator</hi>
+                  </item>
+                  <item>
+                     <hi>Lector</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>3 On whom acted.</head>
+                  <item>
+                     <hi>Amatus</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>4 Inclination to action.</head>
+                  <item>
+                     <hi>Amoroſus</hi>
+                  </item>
+                  <item>
+                     <hi>Audax</hi>
+                  </item>
+                  <item>
+                     <hi>Communicativus</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>5 Qualification to receive the actio<g ref="char:cmbAbbrStroke">̄</g>.</head>
+                  <item>
+                     <hi>Amabilis</hi>
+                  </item>
+                  <item>
+                     <hi>Legibilis</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>6 The exceſſe of the action.</head>
+                  <item>
+                     <hi>Amabundus</hi>
+                  </item>
+                  <item>
+                     <hi>Drunk</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="9" facs="tcp:47520:6"/>
+                  <head>7 Of or belonging to an action or thing.</head>
+                  <item>
+                     <hi>Doctrinalis</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>8 The abſtract of denomination.</head>
+                  <item>
+                     <hi>Amoroſitas</hi>
+                  </item>
+                  <item>
+                     <hi>Docibilitas</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>9 The manner of being or acting.</head>
+                  <item>
+                     <hi>Amoroſè</hi>
+                  </item>
+                  <item>
+                     <hi>Docibiliter.</hi>
+                  </item>
+               </list>
+               <p>Note that the eighth and ninth diſtinctions are double derivatives, and appliable to the fourth, fifth, ſixth, and ſeventh diſtinctions.—</p>
+               <p>The ſeventh diſtinction is likewiſe appliable to words proper, as to denominate any one from the place of his birth, as from
+<list>
+                     <item>
+                        <hi>Rome</hi> a <hi>Roman,</hi>
+                     </item>
+                     <item>
+                        <hi>Naples</hi> a <hi>Neapolitan, &amp;c.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Or from his Calling, as
+<list>
+                     <item>a <hi>Clothier</hi> from <hi>Cloth-making,</hi>
+                     </item>
+                     <item>a <hi>Barber</hi> from <hi>Cutting of beards.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>There are four diſtinctions more, which becauſe they ſeem more as Proper names then Common names, we have placed them by themſelves, as
+<list>
+                     <head>1 The inſtrument wherewith is chiefly acted, as</head>
+                     <item>from to<hi>See</hi>
+                     </item>
+                     <item>the <hi>Eye</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>2 The time of action the houre of</head>
+                     <item>
+                        <hi>Dining</hi>
+                     </item>
+                     <item>
+                        <hi>Supping</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>3 The place of action, as of drinking wine.</head>
+                     <item>
+                        <hi>a Tavern</hi>
+                     </item>
+                     <item>of beer or ale,</item>
+                     <item>
+                        <hi>an Alehouſe.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>4 The ſubſtance of the action</head>
+                     <item>
+                        <hi>Meat</hi>
+                     </item>
+                     <item>
+                        <hi>Drink</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="10" facs="tcp:47520:7"/>
+               <p>Of the nine diſtinctions of <hi>Nouns</hi> Common, the firſt, ſecond, and eighth are only Subſtantives, the reſt all Ad<g ref="char:EOLhyphen"/>jectives; the four laſt diſtinctions are all Subſtantives.</p>
+               <p>No diſtinction for Number is needfull to the Nouns Adjectives, for their number is ſub-underſtood in the Sub<g ref="char:EOLhyphen"/>ſtantives unto which they relate.</p>
+               <p>The ſubſtantives need likewiſe no diſtinction of Num<g ref="char:EOLhyphen"/>ber, except they intend a plural number Indefinite; as There were <hi>Men,</hi> which becauſe no by-ſtanding word will expreſſe the plurality according to our poſition, therefore the plurality is ro be diſtinguiſhed by addition in the word <hi>Man.</hi> But if the plurality be defined by the words, <hi>One, Ten, many, &amp;c.</hi> as
+<list>
+                     <item>
+                        <hi>ten pound,</hi>
+                     </item>
+                     <item>
+                        <hi>many pound.</hi>
+                     </item>
+                  </list> the diſtinction in the words defining are ſufficient without more.</p>
+               <p>The <hi>Verb paſſive</hi> is made of the third diſtinction of Nouns common before mentioned, with the aiding <hi>Verb, to be;</hi> as
+<list>
+                     <item>
+                        <hi>I am beloved,</hi>
+                     </item>
+                     <item>
+                        <hi>Thou ſhalt be beloved.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The proper names of things to give them ſignification, is the work, we ſuppoſe, of a ſound Philoſopher, who from the knowledge of things and their order in nature, ſhould give them names accordingly, deſcribing that in them by their name, by which in the naming they may be known.</p>
+               <p>The Caſes of Nouns, as the <hi>Genetive, Dative,</hi> and <hi>Ab<g ref="char:EOLhyphen"/>lative</hi> may be diſtinguiſhed by the ſignes, <hi>of, to, from,</hi> ad<g ref="char:EOLhyphen"/>joyned.</p>
+               <pb n="11" facs="tcp:47520:7"/>
+               <p>The <hi>Paſſive</hi> or <hi>Accuſative</hi> will be known by its place in the order of Words, as hereafter.</p>
+               <p>
+                  <hi>The ſecond fort of Radixes</hi>
+               </p>
+               <p>Are thoſe of quality; as, <hi>hot, cold,</hi> &amp;c.</p>
+               <p>The number of which might be diminiſhed by a ſubor<g ref="char:EOLhyphen"/>dination as before in the <hi>Verbs</hi> was noted, for inſtance,</p>
+               <p>Firſt, the oppoſition in signification, as
+<list>
+                     <item>
+                        <hi>Hot, Cold,</hi>
+                     </item>
+                     <item>
+                        <hi>Soft, Hard,</hi> &amp;c.</item>
+                  </list>
+               </p>
+               <p>Secondly, the graduall difference, as
+<list>
+                     <item>
+                        <hi>Hot, Warm:</hi>
+                     </item>
+                     <item>
+                        <hi>Wet, Moiſt,</hi> &amp;c.</item>
+                  </list>
+               </p>
+               <p>Of theſe Qualitative words may proceed <hi>Verbs</hi> ſignify<g ref="char:EOLhyphen"/>ing action, uſing only the Radix, without any conſignifi<g ref="char:EOLhyphen"/>cative words adjoyned; as,
+<table>
+                     <row>
+                        <cell>
+                           <hi>I hot,</hi>
+                        </cell>
+                        <cell>or <hi>make hot,</hi>
+                        </cell>
+                        <cell>or <hi>heat,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>I cold,</hi>
+                        </cell>
+                        <cell>or <hi>maki cold,</hi> &amp;c.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Secondly, <hi>Verbs paſſive,</hi> but with a diſtinctionall ad<g ref="char:EOLhyphen"/>dition; as, <hi>I become Hot, Cold,</hi> &amp;c.</p>
+               <p>Unto theſe <hi>Verbs</hi> might likewiſe be appropriated the conſignifications before mentioned; as,
+<table>
+                     <row>
+                        <cell>
+                           <hi>I am accuſtomed</hi>
+                        </cell>
+                        <cell>
+                           <hi>to make hot,</hi>
+                        </cell>
+                        <cell>
+                           <hi>to become hot,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>I begin</hi>
+                        </cell>
+                        <cell>
+                           <hi>to make hot</hi>
+                        </cell>
+                        <cell>
+                           <hi>to become hot,</hi> &amp;c.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Thoſe Qualitative words have derivatives of the ſame nature with the eighth ſort of <hi>Nouns</hi> common; as,
+<table>
+                     <row>
+                        <cell>
+                           <hi>Hotneſſe,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Coldneſſe.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="12" facs="tcp:47520:8"/>
+               <p>Unto theſe Qualitative words, as unto the former names appellative, belongeth an augmentation and diminution, with their comparative and ſuperlative degrees, as
+<table>
+                     <row>
+                        <cell cols="2">
+                           <hi>Poſitive,</hi>
+                        </cell>
+                        <cell cols="2">
+                           <hi>Comparative,</hi>
+                        </cell>
+                        <cell cols="2">
+                           <hi>Suparlative</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Diminution,</cell>
+                        <cell>Augmentation.</cell>
+                        <cell>Diminution,</cell>
+                        <cell>Augmentation.</cell>
+                        <cell>Diminution,</cell>
+                        <cell>Augmentation.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>a little man,</hi>
+                        </cell>
+                        <cell>
+                           <hi>a great man.</hi>
+                        </cell>
+                        <cell>
+                           <hi>a leſſer man,</hi>
+                        </cell>
+                        <cell>
+                           <hi>a greater man.</hi>
+                        </cell>
+                        <cell>
+                           <hi>leaſt man,</hi>
+                        </cell>
+                        <cell>
+                           <hi>greateſt man.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Auxiliary Words.</head>
+               <p>The third ſort of Radicall words which are according to Grammar nominated, <hi>Pronouns, Adverbs, Prepoſitions, Interjections,</hi> and <hi>Conjunctions.</hi>
+               </p>
+               <p>The Pronouns,</p>
+               <p>
+                  <hi>I, thou, he, this, that,</hi> may be radicall: the Plurall, <hi>we, ye, they, theſe, thoſe,</hi> may have an additionall ſigne of plurality: From theſe may derivatively proceed of the eighth ſort of Common names:
+<table>
+                     <row>
+                        <cell>
+                           <hi>Ego-itas</hi>
+                        </cell>
+                        <cell>
+                           <hi>ipſe-itas, &amp;c</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The other following ſorts may be reduced to a certain number, and the number probably leſſened by a ſubordina<g ref="char:EOLhyphen"/>tion as before.</p>
+               <p>The Nouns numerall might be thus deſcribed in Lan<g ref="char:EOLhyphen"/>guage. Suppoſe nine ſingle conſonants for the nine firſt numbers from one to nine incluſive; and nine Vowels for nine dignities, each increaſing ten times the value of the other; the firſt Vowell to conſignifie only the ſingle value of the nine Conſonants, in which place the ſecond Vowell comming to conſignifie the Decimall dignity; the third, the Centenall; and ſo forth, this in conjunction you may ex<g ref="char:EOLhyphen"/>preſſe in few ſyllables, and without reiteration a very large number.</p>
+               <pb n="13" facs="tcp:47520:8"/>
+               <p>The principles or Groundwork of our new Language and Writing propoſed, the application we thus preſcribe.</p>
+               <p>Firſt, we preſcribe a collection of all the Radixes of the three ſorts of words before mentioned, wherein care ſhould be had to ordain for Radixes none but thoſe which are re<g ref="char:EOLhyphen"/>ally ſuch. Secondly, rightly to order a ſubordination of them as is before required; the ſame thus ordered ſhould be the contents of the firſt part of the <hi>Lexicon,</hi> and for the wording of thoſe radicall ſignifications, it will be pre<g ref="char:EOLhyphen"/>required to have ordained a certain number of ſingle ſounds both of Vowels and Conſonants, really ſuch, and which may conſtantly keepe their ſtated ſounds without alterati<g ref="char:EOLhyphen"/>on, out of which the foreſaid Radixes ſhould be worded. Thus might theſe Radixes be ordered and ranked, firſt, in their ſounds in any known Language, thereto adjoyning the new invented words for the ſame.—</p>
+               <p>The ſecond part of the ſaid <hi>Lexicon</hi> ſhould contain all the proper names of things, given them according to the forementioned requiſites.—</p>
+               <p>The ſecond Book required to be the Law of this new Language and Writing, wherein all the Rules aforementi<g ref="char:EOLhyphen"/>oned to be ſet down with ſuch more as ſhall be found re<g ref="char:EOLhyphen"/>quiſite, which ſhould be conſtant, never ſufferieg the leaſt deviation when once ſtated: theſe Rules thus being not many, and being conſtant without any Anomalies or ex<g ref="char:EOLhyphen"/>ceptions, would be no great burthen to memory.—</p>
+               <p>Note, For the wording of the Radixes, our adviſe would be, that all ſuch ordained words ſhould be Monoſyllables, containing a certain number of letters, among which but one Vowell, and that never uſed but in the Radix, and in all Radixes. Secondly, that all the diſtinctionall additions
+<pb n="14" facs="tcp:47520:9"/>ſignificative; be all Conſonants, and the Vowelling of them to be left at pleaſure; alſo to place them where he pleaſe, &amp; to make one or more ſyllables as he ſhall pleaſe, only that in ſo doing of them, he ſeem not to divide them in more words then one. Secondly, that he divide not the Radix: Our reaſon for this liberty is, that from the vowels have proceeded the greateſt variations of Languages, whoſe force therefore in this Language we adviſe to be abated.—</p>
+               <p>The different placing of words in ſeverall Languages, hath produced no ſmall inconvenience to the learners of a new Language, who in that new learned Language remain ſtill ſubject to obſerve the order of their firſt known Lan<g ref="char:EOLhyphen"/>guage, from whence often proceedeth a harſhneſſe to the underſtanding of ſuch miſordered ſentences: To prevent which inconvenience, and to maintain, if poſſible, the con<g ref="char:EOLhyphen"/>ſtancie of our new Language, we have endeavoured by a collection of the moſt, if not all the ſentences or forms of ſpeech, &amp; in them propounded an order for all the words; which, or a better, when obtained, we would recommend as a conſtant rule to be obſerved, and to have its place in our Grammar or Law of Language.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Sentences as we or<g ref="char:EOLhyphen"/>dinarily expreſs them.</cell>
+                        <cell role="label">The ſame according to our propoſed order.</cell>
+                        <cell role="label">Their diſtin<g ref="char:EOLhyphen"/>ction.</cell>
+                     </row>
+                     <row>
+                        <cell>John <hi>who loveth</hi> Mary.</cell>
+                        <cell>John <hi>loveth</hi> Mary <hi>who</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 The Noun Agent or Relative.</item>
+                              <item>2 The Verb. [Relative.</item>
+                              <item>3 The Noun Patient.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A ſhort ſtick</hi>
+                        </cell>
+                        <cell>
+                           <hi>Stick ſhort</hi>
+                        </cell>
+                        <cell rows="4">
+                           <list>
+                              <item>1 the Thing.</item>
+                              <item>2 Its deſcription or re<g ref="char:EOLhyphen"/>lation.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A rod of Iron</hi>
+                        </cell>
+                        <cell>
+                           <hi>Rod of Iron</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>His Book</hi>
+                        </cell>
+                        <cell>
+                           <hi>Book his</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Johns <hi>Book</hi>
+                        </cell>
+                        <cell>
+                           <hi>Book</hi> Johns</cell>
+                     </row>
+                     <pb n="15" facs="tcp:47520:9"/>
+                     <row>
+                        <cell>
+                           <hi>Is loved</hi>
+                        </cell>
+                        <cell>
+                           <hi>Is loved</hi>
+                        </cell>
+                        <cell rows="2">
+                           <list>
+                              <item>1 The Auxiliary Verb.</item>
+                              <item>2 The Noun Adjective.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Is ſpent</hi>
+                        </cell>
+                        <cell>
+                           <hi>Is ſpent</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>This man</hi>
+                        </cell>
+                        <cell>
+                           <hi>This man</hi>
+                        </cell>
+                        <cell rows="2">
+                           <list>
+                              <item>1 The demonſtrative.</item>
+                              <item>2 The demonſtrated.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>That thing</hi>
+                        </cell>
+                        <cell>
+                           <hi>That thing</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>I have ſeen the thing</hi>
+                        </cell>
+                        <cell>
+                           <hi>I have ſeen thing</hi>
+                        </cell>
+                        <cell>The word <hi>the</hi> left out.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>It was done</hi>
+                        </cell>
+                        <cell>
+                           <hi>Was done</hi>
+                        </cell>
+                        <cell rows="3">The word <hi>it, there,</hi> left out.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>It hapned</hi>
+                        </cell>
+                        <cell>
+                           <hi>Hapned</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>There hapned</hi>
+                        </cell>
+                        <cell>
+                           <hi>Hapned</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>William <hi>is loved of his father</hi>
+                        </cell>
+                        <cell>William <hi>is loved of father his</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 The Noun Patient.</item>
+                              <item>2 The Verb,</item>
+                              <item>3 The Noun Agent.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>John <hi>and</hi> Peter <hi>travelled together to</hi> Rome, Peter <hi>ran haſtily to</hi> London</cell>
+                        <cell>John <hi>and</hi> Peter <hi>travelled together to</hi> Rome, Peter <hi>ran haſtily to</hi> London</cell>
+                        <cell>
+                           <list>
+                              <item>1 The Agent.</item>
+                              <item>2 The Verb.</item>
+                              <item>3 The Manner.</item>
+                              <item>4 The place.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Thomas <hi>is much loved of his Father</hi>
+                        </cell>
+                        <cell>Thomas <hi>is much loved of Father his</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 the Noun Pa<g ref="char:EOLhyphen"/>tient.</item>
+                              <item>2 the Verb.</item>
+                              <item>3 the manner.</item>
+                              <item>4 the agent.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Thomas <hi>did beat his man very hard on the back with a ſtick</hi>
+                        </cell>
+                        <cell>Thomas <hi>did beat man his very hard with ſtick on back</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 the Noun Agent.</item>
+                              <item>2 the Verb.</item>
+                              <item>3 the Noun patient.</item>
+                              <item>4 the manner.</item>
+                              <item>5 the inſtrument.</item>
+                              <item>6 the part ſuffering.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <pb n="16" facs="tcp:47520:10"/>
+                     <row>
+                        <cell>
+                           <hi>Yeſterday</hi> John <hi>went to</hi> France</cell>
+                        <cell>
+                           <hi>idem</hi>
+                        </cell>
+                        <cell>When time is expreſſed, it ſhould alwayes precede the action, &amp;c.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>With him,</hi>
+                        </cell>
+                        <cell rows="3">
+                           <hi>idem</hi>
+                        </cell>
+                        <cell rows="3">The Auxiliary words, <hi>with, to, from, &amp;c.</hi> to precede the object.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>From him,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>To</hi> Spain.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>I love him not.</hi>
+                        </cell>
+                        <cell>
+                           <hi>I love not him.</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 The Agent.</item>
+                              <item>2 The Verb.</item>
+                              <item>3 The Negation.</item>
+                              <item>4 The Patient.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Did uſe to ſay.</hi>
+                        </cell>
+                        <cell>
+                           <hi>idem</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 The Verb.</item>
+                              <item>2 The Infinitive Mood.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>There are people in the yard.</hi>
+                        </cell>
+                        <cell>
+                           <hi>In yard are people.</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 The place where.</item>
+                              <item>2 The Auxiliary Verb.</item>
+                              <item>3 Who.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>I give thee this.</hi>
+                        </cell>
+                        <cell>
+                           <hi>I give this to thee.</hi>
+                        </cell>
+                        <cell rows="2">
+                           <list>
+                              <item>1 The Agent.</item>
+                              <item>2 The Verb.</item>
+                              <item>3 The Patient.</item>
+                              <item>4 <hi>on, to, from, &amp;c.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>He held his hand on them</hi>
+                        </cell>
+                        <cell>
+                           <hi>He held hand his on them.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Do ye help them?</hi>
+                        </cell>
+                        <cell>Interrog. <hi>Help ye them</hi>
+                        </cell>
+                        <cell rows="2">
+                           <list>
+                              <item>1 The Verb.</item>
+                              <item>2 The Agent.</item>
+                              <item>3 The Patient.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Help ye them.</hi>
+                        </cell>
+                        <cell>Imperat. <hi>Help ye them</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Whom ye know.</hi>
+                        </cell>
+                        <cell>
+                           <hi>idem</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1 The Relative.</item>
+                              <item>2 The Agent.</item>
+                              <item>3 The Verb.</item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:47520:10"/>For the plainer expreſſion, and eaſier underſtanding of ſpeech, it were beſt to convert all participles in other manner of expreſſion, neglecting the uſe of them.</p>
+               <p>So much for application of the principles or grounds before propoſed to our new Language, now followeth their application to our new writing: which as in this Introduction is not to have relation to ſounds but things, wherefore, for all the radicall words of the three ſorts as they ſtand, for ſuch in the <hi>Lexicon</hi> are to have characters aſſigned them, which may be deſcribed anent the words there ſet down.</p>
+               <p>Then in the Grammar are to be deſcribed thoſe addi<g ref="char:EOLhyphen"/>tionall marks for the derivative diſtinctions, with rules for the uſe of them.—</p>
+               <p>Now that the Characters might be known, and readi<g ref="char:EOLhyphen"/>ly found in the Lexicon, when the ſignification of any of them are deſired to be known, we have pitched on this invention.</p>
+               <p>Firſt, that ten ſingle figures be invented, whereof, nine to ſignifie the nine ſingle numbers, and one of them the Cypher. Suppoſe theſe or the like.</p>
+               <p>1<seg rend="above">
+                     <g ref="char:EOLhyphen"/>
+                  </seg> 2<seg rend="above">/</seg> 3<seg rend="above">\</seg> 4<seg rend="above">—</seg> 5<seg rend="above">(</seg> 6<seg rend="above">)</seg> 7<seg rend="above">∪</seg> 8<seg rend="above">∩</seg> 9<seg rend="above">○</seg> 0<seg rend="above"></seg>
+               </p>
+               <p>Out of theſe might be framed Characters ſignifying any number more or leſſe, as thus.</p>
+               <pb n="18" facs="tcp:47520:11"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <figure/>
+                        </cell>
+                        <cell rows="3">ſignifying</cell>
+                        <cell>235</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <figure/>
+                        </cell>
+                        <cell>3568</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <figure/>
+                        </cell>
+                        <cell>9050</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Or elſe inſtead of the Character for the Cypher, you might draw a ſtroke through the Character of which the Cypher is to follow, thus</p>
+               <p>10<seg rend="above">
+                     <figure/>
+                  </seg> 20<seg rend="above">
+                     <figure/>
+                  </seg> 30<seg rend="above">
+                     <figure/>
+                  </seg> 40<seg rend="above">
+                     <g ref="char:cross">✚</g>
+                  </seg> 50<seg rend="above">
+                     <figure/>
+                  </seg> 60<seg rend="above">
+                     <figure/>
+                  </seg> 70<seg rend="above">
+                     <figure/>
+                  </seg> 80<seg rend="above">
+                     <figure/>
+                  </seg> 90<seg rend="above">○</seg>.</p>
+               <p>And then if two Cyphers follow immediately one the other, then might you deſcribe the firſt of them this way, and the ſecond as before, as
+<list>
+                     <item>
+                        <figure/> for 900</item>
+                     <item>
+                        <figure/> for 9065</item>
+                  </list>
+               </p>
+               <figure/>
+               <figure/>
+               <figure/>
+               <figure/>
+               <pb n="19" facs="tcp:47520:11"/>
+               <figure/>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
